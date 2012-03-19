@@ -1,7 +1,17 @@
-DO STUFF
+Main Objective: DO STUFF
 
 Early Team TODO:
 	-learn Django
 	-create setup scripts to facilitate installation for new participants
 	
+Long-term Goals:
+	-construct a collaborative text editing environment that allows a group of arbitrary people to cobble together a coehisive document of some sort
+		--focus on
+			---signal like or dislike for arbitrary chunks of text
+			---version everything
+			---USER INTERFACE!
 	
+	
+Stuff Accomplished:
+	-03-19-2012
+		--bhw installed django,sqlite,djangotoolbox; attempted to get things running.. a few problems, but seems resonable.
