@@ -10,7 +10,16 @@ Long-term Goals:
 			---signal like or dislike for arbitrary chunks of text
 			---version everything
 			---USER INTERFACE!
-	
+		--associate different edits so that "similar" entities are related
+	-GET BILLS
+		--from library of congress xhtml?
+			---this merits some investigation.. how should this work.
+	-MODERATION
+		--some sort of moderation necessary..
+		
+Basic UX Narrative:
+	-user comes to site, sees one or two bills.
+	-user can flag or edit any section of a bill (or of an edit).
 	
 Stuff Accomplished:
 	-03-19-2012
