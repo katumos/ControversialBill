@@ -2,7 +2,13 @@ Main Objective: DO STUFF
 
 Early Team TODO:
 	-learn Django
-	-create setup scripts to facilitate installation for new participants
+	-create setup scripts to facilitate installation for new participants (IN PROGRESS)
+		-- TODO --
+			* Identify remaining dependancies and add them to setup.py
+			* Test and ensure setup process functions on multiple systems
+		-- DONE --
+			* setup.py script created (3/25/2012 VC)
+			* Django dependecy added (3/25/2012 VC)
 	
 Long-term Goals:
 	-construct a collaborative text editing environment that allows a group of arbitrary people to cobble together a coehisive document of some sort
