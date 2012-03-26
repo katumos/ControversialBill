@@ -3,3 +3,4 @@ dist
 build
 Controversial_Bill.egg-info
 .setup.py.swp
+dev.db
